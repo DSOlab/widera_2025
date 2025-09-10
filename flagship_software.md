@@ -131,9 +131,13 @@ System goals
 - Standards-compliant (ITRF/IERS conventions; IGS/ILRS/IDS formats) and scalable on HPC/cloud.
 
 *Applications*: mission commissioning & cal/val, precise geolocation, reference-frame upkeep, altimetry & gravity processor inputs, cross-tech consistency checks.
+
 *Users*: HEI analysis teams, space-agency cal/val groups, IGS/ILRS/IDS analysis centers, national geodetic agencies, satellite operators.
+
 *Products*: SP3 orbits; clock/EOP series; station solutions (SINEX); QC metrics (SLR/DORIS/GNSS residuals, day-boundary overlaps); quick-look dashboards; DOI’d benchmark runs.
+
 *Use cases*: rapid NRT orbits for operations, reprocessing campaigns, SLR residual quality gates, DORIS Doppler health, altimetry POD improvements, inter-tech validation.
+
 *Importance*: equips widening HEIs with a mission-grade POD capability they can operate and teach—raising participation in global services and mission support.
 
 Technical
