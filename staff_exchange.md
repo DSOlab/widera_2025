@@ -53,3 +53,28 @@
 * Local adoption fast-track: Reverse Exchange (E→W).
 * Baseline skills at scale: Cohort Academy (many-to-many).
 * Sustain momentum: Virtual Co-Working (many-to-many + pairs).
+
+## Verification and Link to CoARA
+
+*just a thought ... *
+
+Apart from KPIs to measure staff exchange effectiveness, we could also implement an
+"Alliance Skills Registry" which will record verifiable recognition of CoE members 
+involved in exchanges (**??is this a good idea??**). 
+
+Participants in the staff-exchange schemes will earn verifiable recognition, not 
+just attendance certificates. Depending on the track and the assessed output, this 
+may be a **micro-credential**, a **graded artifact credential** (e.g., a merged code PR, 
+a DOI’d dataset/benchmark, an SOP/SLA put into operation, a QA dashboard), or 
+a **mentor/instructor badge** (for reverse exchanges or Train-the-Trainer). Each 
+award carries embedded metadata (issuer, skills, workload, assessment method/date, 
+evidence link) and is issued only after a rubric-based review (Pass/Merit/Distinction). 
+Evidence lives in an Alliance Skills Registry and is linkable (DOI/PR/dashboard) 
+to ensure verification and reuse.
+
+These recognitions plug directly into the CoARA-aligned assessment framework. The 
+Narrative CV includes a dedicated section for software, datasets, operational services 
+and training, where participants cite their micro-credentials and artifact links; 
+panels then score them using our published rubric. In short, exchanges generate 
+traceable, evidence-backed achievements that are counted and valued; exactly the cultural 
+shift CoARA expects.
