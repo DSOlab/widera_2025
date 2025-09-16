@@ -56,8 +56,6 @@
 
 ## Verification and Link to CoARA
 
-*just a thought ... *
-
 Apart from KPIs to measure staff exchange effectiveness, we could also implement an
 "Alliance Skills Registry" which will record verifiable recognition of CoE members 
 involved in exchanges (**??is this a good idea??**). 
@@ -76,5 +74,5 @@ These recognitions plug directly into the CoARA-aligned assessment framework. Th
 Narrative CV includes a dedicated section for software, datasets, operational services 
 and training, where participants cite their micro-credentials and artifact links; 
 panels then score them using our published rubric. In short, exchanges generate 
-traceable, evidence-backed achievements that are counted and valued; exactly the cultural 
-shift CoARA expects.
+traceable, evidence-backed achievements that are counted and valued; exactly the 
+cultural shift CoARA expects.
