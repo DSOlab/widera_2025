@@ -167,6 +167,9 @@ Here are credible “mentor sources”:
 * **OBI (Hellenic Industrial Property Organisation) + Athens PATLIB centre (via EPO)**
   Good for: patents/prior-art searches, IP basics, and local “patent information centre” support (PATLIB). This complements the EU IP Helpdesk by giving you a **national IP anchor**. ([obi.gr][B15])
 
+* **Γραφείο μεταφορα΄ς τεχνολογίας ΕΜΠ**
+  [ΓΜΤ-ΕΜΠ](https://tto.ntua.gr/)
+
 **EU / European-level (specialised, often free)**
 
 ---
