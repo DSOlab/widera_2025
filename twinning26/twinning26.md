@@ -125,6 +125,7 @@ In practical terms:
 * **Stakeholder co-design** as a named activity (also explicitly used). ([CORDIS][B01])
 * **Open training outputs**: recorded lectures/tutorials, public notebooks, YouTube/material repositories (several Twinning projects did this). ([CORDIS][B02])
 * **Gender equality actions tied to the technical programme** (mentoring, speaker balance, ESR opportunities), not just generic statements. ([CORDIS][B01])
+>> Activity for women (women on SPace/science)
 
 [B01]: https://cordis.europa.eu/project/id/951308/reporting "Twinning for Promoting Excellence, Ability and Knowledge to develop advanced waste gasification Solutions | H2020 | CORDIS | European Commission"
 [B02]: https://cordis.europa.eu/project/id/952464/reporting "Learning in emotionally vulnerable people | H2020 | CORDIS | European Commission"
